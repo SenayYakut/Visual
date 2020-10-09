@@ -23,7 +23,7 @@ main {
     text-align: right;
 }
 
-div#creator {
+p#creator {
     text-align: right;
     font-family: 'Dancing Script', cursive;
     margin-right: 10px;
