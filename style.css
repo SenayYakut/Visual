@@ -23,10 +23,11 @@ main {
     text-align: right;
 }
 
-#creator {
+div#creator {
     text-align: right;
     font-family: 'Dancing Script', cursive;
     margin-right: 10px;
+    margin-bottom:10px;
 }
 
 a {
